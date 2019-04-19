@@ -22,11 +22,11 @@ Unet Architecture- Tensorflow based Image Segmentation
 ![PoolDetection](https://raw.githubusercontent.com/Amir22010/ImageSegmentation/master/predict_pool.PNG)
 
 
-Training Record for Car Detection through UNET Tensorflow Neural Network
+Training Record After 2 days for Car Detection through UNET Tensorflow Neural Network
 ![Train_Car](https://github.com/Amir22010/ImageSegmentation/raw/master/car_epoch10_training.png)
 
 
-Training Record for Swimming Detection through UNET Tensorflow Neural Network
+Training Record After 2 days for Swimming Detection through UNET Tensorflow Neural Network
 ![Train_Pool](https://github.com/Amir22010/ImageSegmentation/raw/master/pool_epoch5_tensor.png)
 
 
