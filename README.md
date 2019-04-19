@@ -30,5 +30,7 @@ Unet Architecture- Tensorflow based Image Segmentation
 
 
 # Result Tried Hard to be the Best!!!!!
+![result](https://github.com/Amir22010/ImageSegmentation/raw/master/result.png)
+
 
 
